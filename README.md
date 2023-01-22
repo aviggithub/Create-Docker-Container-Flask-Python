@@ -1,6 +1,11 @@
 # Create-Docker-Container-Flask-Python
 Create Docker Container Flask Python | How to Use Docker to Containerise Flask Application in Python
 
+This is basic tutorial how to create Docker Container from python app or flask api
+
+### prerequisite
+Docker
+
 ### DOCKER COMMANDS
 #### 1. Create New Docker Image
 docker build -t appname:tagname .
